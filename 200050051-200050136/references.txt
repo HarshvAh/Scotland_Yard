@@ -1,0 +1,11 @@
+http://tutorials.jenkov.com/java-concurrency/thread-pools.html
+
+https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it
+
+https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ThreadPoolExecutor.html
+
+https://www.geeksforgeeks.org/split-string-java-examples/
+
+https://docs.oracle.com/javase/7/docs/api/java/net/Socket.html#:~:text=A%20socket%20is%20an%20endpoint,appropriate%20to%20the%20local%20firewall.
+
+http://journals.ecs.soton.ac.uk/java/tutorial/networking/sockets/clientServer.html
